@@ -16,4 +16,4 @@
 7. HTML/CSS/Javascript for UI <br>
 
 <h3>credits:</h3>
-I thank <a href="https://codebasics.io/">Codebasics!</a> for his tutorial series on youtube.
+I thank <a href="https://codebasics.io/">Codebasics</a> for his tutorial series on youtube.
