@@ -5,7 +5,7 @@ Second step was to write a python flask server that uses the saved model to serv
 Third component was the website built in html, css and javascript that allows user to enter home square ft area, bedrooms etc and it will call python flask server to retrieve the predicted price. 
 During model building I came across all data science concepts such as data load and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, gridsearchcv for hyperparameter tuning, k fold cross validation etc.
 
-Technologies used:
+<h2>Technologies used:</h2>
 Python
 Numpy and Pandas for data cleaning
 Matplotlib for data visualization
@@ -14,5 +14,5 @@ Jupyter notebook, visual studio code and pycharm as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
 
-<h1>credits:</h1>
+<h3>credits:</h3>
 I thank Codebasics for his tutorial series on youtube.
