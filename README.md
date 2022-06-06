@@ -11,7 +11,7 @@
 2.Numpy and Pandas for data cleaning <br>
 3.Matplotlib for data visualization <br>
 4.Sklearn for model building <br>
-5.Jupyter notebook, visual studio code and pycharm as IDE <br>
+5.Jupyter notebook, visual studio code as IDE <br>
 6.Python flask for http server <br>
 7. HTML/CSS/Javascript for UI <br>
 
