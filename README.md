@@ -14,4 +14,5 @@
 5.Jupyter notebook, visual studio code as IDE <br>
 6.Python flask for http server <br>
 7. HTML/CSS/Javascript for UI <br>
-![image](Screenshot(101).png)
+<h4>Screenshot of UI</h4>
+<img src="https://github.com/Premforreal/Real-Estate-Home-Price-Prediction/blob/main/Screenshot%20(101).png" alt="screenshot" height="500" />
