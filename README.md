@@ -14,3 +14,4 @@
 5.Jupyter notebook, visual studio code as IDE <br>
 6.Python flask for http server <br>
 7. HTML/CSS/Javascript for UI <br>
+![image](Screenshot(101).png)
