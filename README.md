@@ -14,6 +14,3 @@
 5.Jupyter notebook, visual studio code as IDE <br>
 6.Python flask for http server <br>
 7. HTML/CSS/Javascript for UI <br>
-
-<h3>credits:</h3>
-I thank <a href="https://codebasics.io/">Codebasics</a> for his tutorial series on youtube.
