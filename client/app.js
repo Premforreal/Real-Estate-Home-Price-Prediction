@@ -5,7 +5,7 @@ function getBathValue() {
         return parseInt(i)+1;
     }
   }
-  return -1; // Invalid Value
+  return -1; 
 }
 
 function getBHKValue() {
@@ -15,7 +15,7 @@ function getBHKValue() {
         return parseInt(i)+1;
     }
   }
-  return -1; // Invalid Value
+  return -1;
 }
 
 function onClickedEstimatePrice() {
